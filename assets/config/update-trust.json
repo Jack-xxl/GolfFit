@@ -1,0 +1,13 @@
+﻿{
+    "channel":  "stable",
+    "allowedPublisherThumbprints":  [
+                                        "20E3BB3733835C54232288ED42721D60617AC35C"
+                                    ],
+    "requireSha256":  true,
+    "allowInsecureDebug":  false,
+    "requireAuthenticode":  true,
+    "requireHttps":  true,
+    "allowedPublisherSubjects":  [
+                                     "CN=GolfFit Lite Updates"
+                                 ]
+}

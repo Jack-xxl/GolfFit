@@ -1,0 +1,10 @@
+{
+  "version": "1.0.6",
+  "channel": "stable",
+  "minVersion": "1.0.0",
+  "setupUrl": "https://example.com/golffit/GolfFit-Lite-Setup.exe",
+  "sha256": "REPLACE_WITH_64_HEX_FROM_PUBLISH_SCRIPT",
+  "sizeBytes": 0,
+  "publisherThumbprint": "REPLACE_WITH_CODESIGN_THUMBPRINT",
+  "notes": "GolfFit Lite 1.0.6 — secure remote update + prior field patches baked in."
+}

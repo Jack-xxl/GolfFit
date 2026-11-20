@@ -1,0 +1,11 @@
+{
+    "version":  "1.0.6",
+    "channel":  "stable",
+    "minVersion":  "1.0.0",
+    "setupUrl":  "https://github.com/Jack-xxl/GolfFit/releases/download/v1.0.6/GolfFit-Lite-Setup.exe",
+    "sha256":  "C1D9FEE56DC7D8CD6439695CFC910101957D2BC5F584F532971768DD2691ECC9",
+    "sizeBytes":  952688000,
+    "publisherThumbprint":  "20E3BB3733835C54232288ED42721D60617AC35C",
+    "notes":  "GolfFit Lite 1.0.6 — secure remote update + baked field patches.",
+    "publishedAt":  "2026-11-20T20:58:45.1509691Z"
+}

@@ -1,0 +1,9 @@
+{
+  "checkOnStartup": true,
+  "requireHttps": true,
+  "requireSha256": true,
+  "requireAuthenticode": true,
+  "allowInsecureDebug": false,
+  "channel": "stable",
+  "manifestUrl": ""
+}
